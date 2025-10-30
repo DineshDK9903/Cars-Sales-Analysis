@@ -76,20 +76,6 @@ Open the Power BI file (Car_Sales_Dashboard.pbix) to view visualizations.
 
 Review the Gamma presentation for key findings.
 
-📂 Project Structure
-Car-Sales-Analysis/
-│
-├── data/
-│   └── car_sales.csv
-├── notebooks/
-│   └── car_sales_analysis.ipynb
-├── dashboard/
-│   └── Car_Sales_Dashboard.pbix
-├── report/
-│   └── Car_Sales_Report.pdf
-├── presentation/
-│   └── Car_Sales_Presentation.gamma
-└── README.md
 
 💡 Key Takeaways
 
